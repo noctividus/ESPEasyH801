@@ -1,0 +1,5 @@
+Plugins just get thrown in the src (renamed to ESPEasy for arduino requirement of sketch to be in same folder) directory.
+
+Added Lights plugin, had to comment out one line and turn that define to false. Settings.TaskDeviceSendData = false
+
+Must use version 2.3 of the ESP8266 board library.
